@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Starting to code game for scratch</td>
+    <td> Starting to code game for scratch</td>
     <td>Date</td>
-    <td>17/01/18</td>
+    <td> 17/01/18</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Log in and go to planning sheet for game
+    <td> Log in and go to planning sheet for game
 </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To start basic code for game</td>
+    <td> To start basic code for game</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes and I thought of adding a scrolling background</td>
+    <td> Yes and I thought of adding a scrolling background</td>
   </tr>
 </table>
 
@@ -63,7 +63,8 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>The parts of coding which took too long should have been quicker and avoiding the silly little mistakes in coding blocks to program each sprite.</td>
+    <td>
+The parts of coding which took too long should have been quicker and avoiding the silly little mistakes in coding blocks to program each sprite.</td>
     <td></td>
   </tr>
   <tr>
@@ -71,7 +72,8 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I could have used different and easier ways of coding different pieces where in places it would have been much more efficent to use maybe only one or two pieces of coding blocks and attached others to one to make the different parts quicker.</td>
+    <td>
+I could have used different and easier ways of coding different pieces where in places it would have been much more efficent to use maybe only one or two pieces of coding blocks and attached others to one to make the different parts quicker.</td>
     <td></td>
   </tr>
 </table>
