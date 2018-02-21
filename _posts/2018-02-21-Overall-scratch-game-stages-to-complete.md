@@ -1,12 +1,12 @@
 ---
-title: Overall scratch game stages to complete
+title: Overall scratch game stages to complete    21/02/18
 layout: post
 author: mikhail.tariq
 permalink: /overall-scratch-game-stages-to-complete/
 source-id: 1ewAa0jqQJgB2lXFDTJ-vVxwNHvhLOHrBJ5RbVWRtITA
 published: true
 ---
-Overall Scratch Game Stages To Complete
+Overall Scratch Game Stages To Complete 21/02/2018
 
 To complete my game in scratch I went through different stages and problems on working and coding sprites and creating ideas for my game.
 
